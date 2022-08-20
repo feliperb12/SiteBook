@@ -1,0 +1,26 @@
+img{
+    height: 3rem;
+}
+
+.header{
+    background-color:  #0f0f0f;
+}
+
+.titulo{
+    color: white;
+}
+
+.header{
+    justify-content: center;
+    height: 10%;
+}
+
+span {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 20px;
+    padding-left: 15px;
+}

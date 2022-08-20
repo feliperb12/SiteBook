@@ -1,0 +1,9 @@
+.footer {
+  background-color: #0f0f0f;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  justify-content: flex-end;
+  font-size: 15px;
+  height: 5%;
+}
